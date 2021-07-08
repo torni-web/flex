@@ -1,0 +1,18 @@
+@media (max-width: 950px) {
+    .header {
+        right: 400px;
+    }
+}
+@media (max-width: 1800px) {
+    .container2 {
+        flex-direction: column;
+        justify-content: stretch;
+        flex-flow: column wrap;
+        align-content: center;
+    }
+}
+@media (max-width: 1200px) {
+    .navigation {
+        margin-left: 200px;
+    }
+}
